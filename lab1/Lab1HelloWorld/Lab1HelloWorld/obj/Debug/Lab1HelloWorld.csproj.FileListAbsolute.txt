@@ -1,0 +1,6 @@
+C:\Users\Idan\Desktop\Lab1HelloWorld\Lab1HelloWorld\bin\Debug\Lab1HelloWorld.exe.config
+C:\Users\Idan\Desktop\Lab1HelloWorld\Lab1HelloWorld\bin\Debug\Lab1HelloWorld.exe
+C:\Users\Idan\Desktop\Lab1HelloWorld\Lab1HelloWorld\bin\Debug\Lab1HelloWorld.pdb
+C:\Users\Idan\Desktop\Lab1HelloWorld\Lab1HelloWorld\obj\Debug\Lab1HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\Lab1HelloWorld\Lab1HelloWorld\obj\Debug\Lab1HelloWorld.exe
+C:\Users\Idan\Desktop\Lab1HelloWorld\Lab1HelloWorld\obj\Debug\Lab1HelloWorld.pdb
