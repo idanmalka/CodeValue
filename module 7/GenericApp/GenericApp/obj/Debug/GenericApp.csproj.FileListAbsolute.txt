@@ -1,0 +1,13 @@
+C:\Users\Idan\Desktop\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp - unfinished\GenericApp\bin\Debug\GenericApp.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp - unfinished\GenericApp\bin\Debug\GenericApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp - unfinished\GenericApp\bin\Debug\GenericApp.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp - unfinished\GenericApp\obj\Debug\GenericApp.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp - unfinished\GenericApp\obj\Debug\GenericApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp - unfinished\GenericApp\obj\Debug\GenericApp.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp\GenericApp\obj\Debug\GenericApp.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp\GenericApp\bin\Debug\GenericApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp\GenericApp\bin\Debug\GenericApp.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 7\GenericApp\GenericApp\obj\Debug\GenericApp.csprojResolveAssemblyReference.cache
