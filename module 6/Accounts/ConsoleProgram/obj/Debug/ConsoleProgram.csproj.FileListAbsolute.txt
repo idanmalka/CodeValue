@@ -1,0 +1,16 @@
+C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.exe.config
+C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.exe
+C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.pdb
+C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\AccountsLib.dll
+C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\AccountsLib.pdb
+C:\Users\Idan\Desktop\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.exe
+C:\Users\Idan\Desktop\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 6\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 6\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 6\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 6\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 6\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 6\Accounts\ConsoleProgram\bin\Debug\AccountsLib.dll
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 6\Accounts\ConsoleProgram\bin\Debug\AccountsLib.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 6\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.csprojResolveAssemblyReference.cache
