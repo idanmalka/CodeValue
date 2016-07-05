@@ -1,0 +1,11 @@
+C:\Users\Idan\Desktop\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\Idan\Desktop\ShapeLib\ShapesApp\bin\Debug\ShapesApp.exe
+C:\Users\Idan\Desktop\ShapeLib\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\Users\Idan\Desktop\ShapeLib\ShapesApp\bin\Debug\ShapeLib.dll
+C:\Users\Idan\Desktop\ShapeLib\ShapesApp\bin\Debug\ShapeLib.pdb
+C:\Users\Idan\Desktop\ShapeLib\ShapesApp\obj\Debug\ShapesApp.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\ShapeLib\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\Idan\Desktop\ShapeLib\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 5\ShapeLib - unfinised\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 5\ShapeLib - unfinised\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 5\ShapeLib - unfinised\ShapesApp\obj\Debug\ShapesApp.pdb

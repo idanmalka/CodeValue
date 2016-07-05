@@ -1,0 +1,5 @@
+C:\Users\Idan\Desktop\ShapeLib\ShapeLib\bin\Debug\ShapeLib.dll
+C:\Users\Idan\Desktop\ShapeLib\ShapeLib\bin\Debug\ShapeLib.pdb
+C:\Users\Idan\Desktop\ShapeLib\ShapeLib\obj\Debug\ShapeLib.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\ShapeLib\ShapeLib\obj\Debug\ShapeLib.dll
+C:\Users\Idan\Desktop\ShapeLib\ShapeLib\obj\Debug\ShapeLib.pdb
