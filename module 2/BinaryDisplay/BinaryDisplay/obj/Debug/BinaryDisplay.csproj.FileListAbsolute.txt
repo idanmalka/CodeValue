@@ -1,0 +1,12 @@
+C:\Users\Idan\Desktop\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe.config
+C:\Users\Idan\Desktop\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe
+C:\Users\Idan\Desktop\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.pdb
+C:\Users\Idan\Desktop\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.exe
+C:\Users\Idan\Desktop\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\BinaryDisplay\BinaryDisplay\bin\Debug\BinaryDisplay.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\BinaryDisplay\BinaryDisplay\obj\Debug\BinaryDisplay.csprojResolveAssemblyReference.cache

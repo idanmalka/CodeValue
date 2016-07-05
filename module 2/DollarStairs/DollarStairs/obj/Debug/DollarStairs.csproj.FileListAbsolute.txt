@@ -1,0 +1,6 @@
+C:\Users\Idan\Desktop\DollarStairs\DollarStairs\bin\Debug\DollarStairs.exe.config
+C:\Users\Idan\Desktop\DollarStairs\DollarStairs\bin\Debug\DollarStairs.exe
+C:\Users\Idan\Desktop\DollarStairs\DollarStairs\bin\Debug\DollarStairs.pdb
+C:\Users\Idan\Desktop\DollarStairs\DollarStairs\obj\Debug\DollarStairs.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\DollarStairs\DollarStairs\obj\Debug\DollarStairs.exe
+C:\Users\Idan\Desktop\DollarStairs\DollarStairs\obj\Debug\DollarStairs.pdb
