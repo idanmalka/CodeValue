@@ -1,0 +1,6 @@
+C:\Users\Idan\Desktop\MulBoard\MulBoard\bin\Debug\MulBoard.exe.config
+C:\Users\Idan\Desktop\MulBoard\MulBoard\bin\Debug\MulBoard.exe
+C:\Users\Idan\Desktop\MulBoard\MulBoard\bin\Debug\MulBoard.pdb
+C:\Users\Idan\Desktop\MulBoard\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\MulBoard\MulBoard\obj\Debug\MulBoard.exe
+C:\Users\Idan\Desktop\MulBoard\MulBoard\obj\Debug\MulBoard.pdb
