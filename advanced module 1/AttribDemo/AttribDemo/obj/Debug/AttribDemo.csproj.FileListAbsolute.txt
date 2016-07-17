@@ -1,0 +1,6 @@
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\advanced module 1\AttribDemo\AttribDemo\bin\Debug\AttribDemo.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\advanced module 1\AttribDemo\AttribDemo\bin\Debug\AttribDemo.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\advanced module 1\AttribDemo\AttribDemo\bin\Debug\AttribDemo.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\advanced module 1\AttribDemo\AttribDemo\obj\Debug\AttribDemo.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\advanced module 1\AttribDemo\AttribDemo\obj\Debug\AttribDemo.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\advanced module 1\AttribDemo\AttribDemo\obj\Debug\AttribDemo.pdb
