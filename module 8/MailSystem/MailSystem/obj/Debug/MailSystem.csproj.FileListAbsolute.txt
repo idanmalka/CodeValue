@@ -1,0 +1,9 @@
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 8\MailSystem\MailSystem\bin\Debug\MailSystem.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 8\MailSystem\MailSystem\bin\Debug\MailSystem.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 8\MailSystem\MailSystem\bin\Debug\MailSystem.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 8\MailSystem\MailSystem\obj\Debug\MailSystem.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 8\MailSystem\MailSystem\obj\Debug\MailSystem.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 8\MailSystem\MailSystem\obj\Debug\MailSystem.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\module 8\MailSystem\MailSystem\bin\Debug\MailSystem.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\module 8\MailSystem\MailSystem\obj\Debug\MailSystem.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 4\module 8\MailSystem\MailSystem\obj\Debug\MailSystem.pdb
