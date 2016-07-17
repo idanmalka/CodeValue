@@ -1,0 +1,6 @@
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab 4\module 10\FileFinder\FileFinder\bin\Debug\FileFinder.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab 4\module 10\FileFinder\FileFinder\bin\Debug\FileFinder.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab 4\module 10\FileFinder\FileFinder\bin\Debug\FileFinder.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab 4\module 10\FileFinder\FileFinder\obj\Debug\FileFinder.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab 4\module 10\FileFinder\FileFinder\obj\Debug\FileFinder.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab 4\module 10\FileFinder\FileFinder\obj\Debug\FileFinder.pdb
