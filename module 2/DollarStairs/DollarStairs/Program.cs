@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DollarStairs
 {
+    //No input validation
     class Program
     {
         static void Main(string[] args)
