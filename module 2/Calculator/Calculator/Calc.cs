@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
+    // You should have used a seperate class and a seperate file for the logic.
+    //Great job with the UnitTests.
     public class Calc
     {
         private static double Add(double x, double y)
         {
+            //body of statements in the same line is not recommended in C#, at least it isn't the convention
             if (x == double.MaxValue && y > 0) throw new OverflowException();
             if (y == double.MaxValue && x > 0) throw new OverflowException();
 
@@ -63,6 +66,7 @@ namespace Calculator
         }
         static void Main(string[] args)
         {
+            //The conveintion in C# is to declare each variable in a seperate line.
             double firstNum, secondNum, res = double.NaN;
             string op;
             bool flag = true;

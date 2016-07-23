@@ -4,6 +4,7 @@ using Calculator;
 
 namespace UnitTestProject1
 {
+    //Nice.
     [TestClass]
     public class TestCalcAdd
     {
