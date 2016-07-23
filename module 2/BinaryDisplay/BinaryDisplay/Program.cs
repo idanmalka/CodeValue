@@ -8,7 +8,7 @@ namespace BinaryDisplay
         public static int CountOnes(int input)
         {
             var count = 0;
-            if (input<0) throw new ArgumentOutOfRangeException();
+            //if (input<0) throw new ArgumentOutOfRangeException();
             while (input != 0)
             {
                 if ((input & 1) == 1) count++;
@@ -17,6 +17,7 @@ namespace BinaryDisplay
             return count;
         }
 
+        //C#'6 feature, nice.
         public static string GetBinaryRep(int input) => Convert.ToString(input, 2);
         
         public static void Main(string[] args)
@@ -31,6 +32,8 @@ namespace BinaryDisplay
             }
             catch (ArgumentOutOfRangeException e)
             {
+                //It is not infinite, as there are a finite number of bytes and bits in each int.
+                //You should have used '<<' with negative numbers. or used other tricks.
                 Console.WriteLine("The number of 1's in a negative number is infinite, in some way");
             }
         }

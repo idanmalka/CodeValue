@@ -4,6 +4,7 @@ using BinaryDisplay;
 
 namespace TestBinaryDisplays
 {
+    //Not suffient UnitTests.
     [TestClass]
     public class UnitTest1
     {
