@@ -2,6 +2,7 @@
 
 namespace Quad
 {
+    //It would have been better to create a seperate class for the logic.
     public class Program
     {
 
