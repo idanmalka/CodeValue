@@ -16,7 +16,7 @@ namespace ShapeLib
         }
 
 
-        public int Radius
+        public int Radius//You allow changing the raidus value, bit do not update elipses values as well, which will cause inconsistent Area to be computed
         {
             get { return _radius; }
             set { _radius = value; }

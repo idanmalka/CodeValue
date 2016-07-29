@@ -23,6 +23,7 @@ namespace ShapeLib
             set { _width = value; }
         }
 
+        //+1 for using default values
         public Rectangle(int height, int width,ConsoleColor c = ConsoleColor.White) : base(c)
         {
             _height = height;

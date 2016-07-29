@@ -42,6 +42,7 @@ namespace ShapeLib
             Console.WriteLine($"Ellipse short radius: {ShortRadius} \nEllipse long radius: {LongRadius}");
         }
 
+        //Very good!
         protected void ChangeColor()
         {
             base.Dispaly();
@@ -57,6 +58,11 @@ namespace ShapeLib
             sb.AppendLine($"Ellipse short radius: {ShortRadius} \nEllipse long radius: {LongRadius}\n");
         }
 
+        /**
+         Buggy implementation of compare to
+         Read the interface implementation and return values as expected
+         If an invalid argument has been passed, consider throwing ArgumentNullException or ArgumentException
+             */
         public int CompareTo(object obj) //returns 2 if obj is not of ellipse type ,return 1 if this < obj , return -1 if this > obj, return 0 if this == obj
         {
             var ellipse = obj as Shape;

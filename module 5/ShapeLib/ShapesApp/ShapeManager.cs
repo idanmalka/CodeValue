@@ -27,18 +27,21 @@ namespace ShapesApp
             }
         }
 
+        //Redundant setter
         public Shape this[int index]    //list indexer
         {
             get { return (Shape)_list[index]; }
             set { }
         }
 
+        //Redundant setter
         public int Count        //list size counter
         {
             get { return _list.Count; }
             set { }
         }
 
+        //Very good!
         public void Save(StringBuilder sb)
         {
             foreach (var item in _list)
@@ -62,9 +65,9 @@ namespace ShapesApp
             mngr.Save(sb);                          // from lab 5.2
             Console.WriteLine(sb.ToString());       //
             
-            mngr.Add(new Circle(5,ConsoleColor.White));
-            mngr.Add(new Rectangle(6,7,ConsoleColor.White));
-            mngr.Add(new Ellipse(1,2,ConsoleColor.White));
+            mngr.Add(new Circle(5,ConsoleColor.Red));
+            mngr.Add(new Rectangle(6,7,ConsoleColor.Cyan));
+            mngr.Add(new Ellipse(1,2,ConsoleColor.Blue));
 
             switch (((Circle) mngr[0]).CompareTo(mngr[3]))
             {
