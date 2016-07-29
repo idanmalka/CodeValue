@@ -46,7 +46,7 @@ namespace GenericApp
             if (_dictionary.ContainsKey(key))
             {
                 Values.Remove(value);
-                --Count;
+                --Count;//Bug: count decremented whether or not value is present in the collection(s)
                 return _dictionary[key].Remove(value);
 
             }
