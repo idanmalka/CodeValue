@@ -9,15 +9,20 @@ namespace Strings
 {
     public class Program
     {
+        //Cool
         public static void Reverse(string[] s) => Array.Reverse(s);
 
+        // would be enough to write: str.Length == 0;
         public static bool CheckEmptyString(string str) => str.Length == 0 ? true : false;
 
+        //Neet
         public static void SortReversedArray(string[] arr) => Array.Sort(arr);
 
         public static void Main(string[] args)
         {
             string sentence;
+
+            //What about other white spaces or multiple whitespaces?
             string[] seperator = { " " };
             do
             {
