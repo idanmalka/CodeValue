@@ -31,6 +31,12 @@ namespace ShapeLib
             Console.ForegroundColor = _color;
         }
 
+        /**
+         
+             Setter is redundant, and causes you to implement a 'dummy' setter is all derived classes.
+             Consider:
+             public abstract double Area { get;}
+             */
         public abstract double Area { get; set; }
     }
 }
