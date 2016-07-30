@@ -25,6 +25,7 @@ namespace AccountsLib
         }// ID property
 
 
+        //Maybe it would have been a better idea to throw an exception if amount is not positive.
         public void Deposit(int amount)
         {
             if (amount > 0)
