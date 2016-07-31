@@ -24,15 +24,25 @@ namespace Primes
 
         private static bool IsPrime(int x)
         {
-            if (x == 1) return false;
+            //The conveintion in C# is to start body expressions in a seperate line and with bracets "{ }", even for oneliners
+            if (x == 1)
+            {
+                return false;
+            }
             for (int i = 2; i <= Math.Sqrt(x); i++)
-                if (x%i == 0) return false;
+            {
+                if (x%i == 0)
+                {
+                    return false;
+                }
+            }
             return true;
 
 
         }
         static void Main(string[] args)
         {
+            //You are calling TryParse without checking their returned type.
             int a,b;
             Console.Write("Enter 2 numbers:\nfirst: ");
             int.TryParse(Console.ReadLine(), out a);
