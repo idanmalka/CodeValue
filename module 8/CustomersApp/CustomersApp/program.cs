@@ -8,7 +8,7 @@ namespace CustomersApp
 
     public class Program
     {
-
+        //You should have used IEnumerable and yield.
         public static ICollection<Customer> GetCustomers(ICollection<Customer> collection, CustomerFilter filter)
         {
             List<Customer> newList = new List<Customer>();
@@ -30,8 +30,13 @@ namespace CustomersApp
             var customers = InitializeCustomerArray();
             
             Console.WriteLine("Entire List:");
+
+            //1. Consider extracting this to another method. You have used the same code multiple times.
+            //2. The conveintion in C# is to start body expressions in a seperate line and with bracets "{ }", even for oneliners
             foreach (Customer customer in customers)
+            {
                 Console.WriteLine(customer);
+            }
 
             Console.WriteLine("\nFiltered A-K List:");
             CustomerFilter filterAtoK = Program.Filter;
@@ -51,6 +56,9 @@ namespace CustomersApp
             Console.WriteLine();
 
             Console.WriteLine("Filtered by ID<100 List:");
+
+            //This is enough: filterById = c => c.ID < 100
+            //You didn't have to cast
             CustomerFilter filterById = new CustomerFilter((c)=>c.ID<100);
             customerList = GetCustomers(customers, filterById);
             foreach (Customer c in customerList)
