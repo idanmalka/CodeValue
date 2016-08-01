@@ -13,6 +13,7 @@ namespace MailSystem
 
         protected virtual void OnMailArrived(MailArrivedEventArgs args)
         {
+            //Nice.
             MailArrived?.Invoke(this, args);
         }
 
