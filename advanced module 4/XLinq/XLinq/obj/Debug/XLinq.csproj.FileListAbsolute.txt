@@ -1,0 +1,6 @@
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\XLinq\XLinq\bin\Debug\XLinq.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\XLinq\XLinq\bin\Debug\XLinq.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\XLinq\XLinq\bin\Debug\XLinq.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\XLinq\XLinq\obj\Debug\XLinq.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\XLinq\XLinq\obj\Debug\XLinq.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\XLinq\XLinq\obj\Debug\XLinq.pdb
