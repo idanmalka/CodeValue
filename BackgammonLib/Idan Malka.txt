@@ -1,0 +1,19 @@
+*)Overall - nice work
+
+*)I noticed that you use events for communicating from the App back to the engine.
+This design is problematic, since it "entrusts" the UI designer with doing what's expected of him.
+This also creates a pattern of code which has to be repeated in each UI app you write.
+
+It would be a better practice that the UI, from which the move request originates would issue the source and destination indices directly as part of the method parameters.
+
+*)Casting the sender object to a specific type is a sure way to break encapsulation.
+You can not know how the Game engine is implemented inside, therefore, you must not assume that the event came from the board object.
+In fact, you should not even know about the board object's existence.
+Imagine that you shipped your library to clients and all would cast the sender to the Board.
+What would happen if you changed the game implementation so that the board no longer issues the events?
+Problematic.. what you should do is make any EventArgument you ever design to be self sufficient.
+So that the sender, which is of type object by intent of encapsulation- will not be needed
+
+*)An exception should be thrown when a very serious error occured, such that the application can not recover from it and properly function afterwards
+In fact, the error is so serious that you need to ensure the interruption of the throwing method's flow, and the flow of the method calling it.
+This is not the case in your application, where simple boolean values denoting the operation status could divert the flow of control to safety.
