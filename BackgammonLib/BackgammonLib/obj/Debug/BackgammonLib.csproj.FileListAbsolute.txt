@@ -8,3 +8,8 @@ C:\Users\Idan\Desktop\BackgammonLib\BackgammonLib\bin\Debug\BackgammonLib.pdb
 C:\Users\Idan\Desktop\BackgammonLib\BackgammonLib\obj\Debug\BackgammonLib.csprojResolveAssemblyReference.cache
 C:\Users\Idan\Desktop\BackgammonLib\BackgammonLib\obj\Debug\BackgammonLib.dll
 C:\Users\Idan\Desktop\BackgammonLib\BackgammonLib\obj\Debug\BackgammonLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonLib\bin\Debug\BackgammonLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonLib\bin\Debug\BackgammonLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonLib\obj\Debug\BackgammonLib.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonLib\obj\Debug\BackgammonLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonLib\obj\Debug\BackgammonLib.pdb
