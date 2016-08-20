@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace AsyncDemo
 {
+    // bad name for the delegate
     public delegate IEnumerable<int> Del(int first, int second);
     static class Program
     {
@@ -19,12 +20,12 @@ namespace AsyncDemo
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
-
+        
         public static IEnumerable<int> CalcPrimes(int first, int second)
         {
             return Enumerable.Range(first,second).Where(IsPrime);
         }
-
+        // "x" bad parameter name 
         private static bool IsPrime(int x)
         {
             if (x == 1) return false;

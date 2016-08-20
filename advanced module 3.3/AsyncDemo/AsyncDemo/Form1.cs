@@ -32,6 +32,8 @@ namespace AsyncDemo
             IEnumerable<int> result = ((Del) ar.AsyncState).EndInvoke(ar);
             foreach (var num in result)
             {
+                // invoke - synchronic , beginInvoke - Asynchronic
+                // UI Blocked
                 Invoke((MethodInvoker)delegate
                 {
                     ResultBox.Items.Add(num); // runs on UI thread
