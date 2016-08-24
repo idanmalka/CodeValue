@@ -14,6 +14,7 @@ namespace LINQtoObjects
     {
         static void Main(string[] args)
         {
+            // Good Work
             PrintPublicInterfacesAndNumberOfMethodsIn("mscorlib");
             PrintProccessesWithLessThan5Threads();
             PrintTotalOfRunningThreads();
@@ -57,7 +58,7 @@ namespace LINQtoObjects
         private static void PrintProccessesWithLessThan5Threads()
         {
             var filteredProcesses = from proc in Process.GetProcesses()
-                                    where proc.Threads.Count <= 5 
+                                    where proc.Threads.Count <= 5
                                     orderby proc.Id
                                     select proc;
             var groupedFilteredProcesses = from proc in filteredProcesses
@@ -73,7 +74,7 @@ namespace LINQtoObjects
             }
             Console.WriteLine();
         }
-
+        
         private static void PrintProc(Process proc)
         {
             try
