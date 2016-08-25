@@ -10,11 +10,14 @@ namespace XLinq
 {
     static class MyXmlExtensions
     {
+        // if you assosiate this all your methods to the same passed parameter... what is the idea of static class and static methods??
+        //Create new class, pass him "IEnumerable<XElement> elements" threw the constructor...
+        //Remeber: Use static only if you don't have any other way
         public static IEnumerable<string> TypesWithNoProperties(this IEnumerable<XElement> elements)
         {
             var filtered = from e in elements
-                where e.Element("Properties") != null && e.Element("Properties").IsEmpty
-                orderby (string) e.Attribute("FullName")
+                where e.Element("Properties") != null && e.Element("Properties").IsEmpty 
+                orderby (string) e.Attribute("FullName")// without casting: e.Attribute("FullName").Value
                 select (string) e.Attribute("FullName");
 
             return filtered;
@@ -34,7 +37,7 @@ namespace XLinq
         {
             var groupParametersQuery = elements.Descendants("Parameter")
                 .GroupBy(x => x.Attribute("Type"))
-                .Select(x => new {type = x.Key, cnt = x.Count()})
+                .Select(x => new {type = x.Key, cnt = x.Count()}) // "cnt" bad name 
                 .OrderBy(x => x.cnt)
                 .Last();
 

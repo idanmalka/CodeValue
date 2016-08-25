@@ -46,13 +46,13 @@ namespace XLinq
             var xe = tree.SortTypesByMethods();
             new XElement("TypesSortedByMethodsXml",xe).Save("TypesSortedByMethodsXml.xml");
         }
-
+        //next time get the answer to variable, and then pass print it
         private static void PrintMostCommonParameterType(IEnumerable<XElement> tree)
         {
             Console.WriteLine($"The most common type is: {tree.MostCommonParameterType()}");
             Console.WriteLine();
         }
-
+        //next time get the answer to variable, and then pass print it
         private static void PrintNumberOfProperties(IEnumerable<XElement> tree)
         {
             Console.WriteLine($"Number of Properties: {tree.NumberOfProperties()}");
@@ -61,6 +61,7 @@ namespace XLinq
 
         private static void PrintNumberOfMethods(IEnumerable<XElement> tree)
         {
+            //next time get the answer to variable, and then pass print it
             Console.WriteLine($"Number of methods: {tree.NumberOfMethods()}");
             Console.WriteLine();
         }
@@ -82,13 +83,14 @@ namespace XLinq
 
         private static IEnumerable<XElement> createTree()
         {
+            //perfect
             Assembly mscorlib = Assembly.Load("mscorlib");
             var tree = from member in mscorlib.GetExportedTypes()
                        where member.IsClass && member.IsPublic
                        select new XElement("Type", new XAttribute("FullName", member.FullName),
                                   new XElement("Properties",
-                                        from prop in member.GetProperties()
-                                        where prop.CanRead
+                                        from prop in member.GetProperties()//should be member.GetProperties(BindingFlags.Public | BindingFlags.Instance)
+                                        where prop.CanRead 
                                         select new XElement("Property", new XAttribute("Name", prop.Name), new XAttribute("Type", prop.PropertyType))),
                                   new XElement("Methods",
                                         from method in member.GetMethods(BindingFlags.Public | BindingFlags.Instance | BindingFlags.DeclaredOnly)
