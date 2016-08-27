@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace BackgroundPrimeCalc
 {
+    //Nice job
     public partial class Form1 : Form
     {
         private readonly BackgroundWorker _worker;
