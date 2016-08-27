@@ -31,6 +31,7 @@ namespace PrimesCalculator
 
         private void ThreadCode(int first,int last)
         {
+            //Sweet
             var list = Enumerable.Range(first, last).Select(y => y).Where(IsPrime);
             Invoke(new Action(() => Results.Items.Clear()));
             UpdateResults(list);

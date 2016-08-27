@@ -10,3 +10,9 @@ C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\Calc
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\Calculator\bin\Debug\Calculator.exe
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\Calculator\bin\Debug\Calculator.pdb
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

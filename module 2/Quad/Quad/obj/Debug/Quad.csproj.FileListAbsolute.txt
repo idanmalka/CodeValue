@@ -10,3 +10,6 @@ C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Quad\Quad\obj\D
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Quad\Quad\bin\Debug\Quad.exe
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Quad\Quad\bin\Debug\Quad.pdb
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Quad\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Quad\Quad\bin\Debug\Quad.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Quad\Quad\obj\Debug\Quad.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\Quad\Quad\obj\Debug\Quad.pdb

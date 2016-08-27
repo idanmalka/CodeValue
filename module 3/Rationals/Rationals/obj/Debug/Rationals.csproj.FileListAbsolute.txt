@@ -7,3 +7,9 @@ C:\Users\Idan\Desktop\Rationals\Rationals\obj\Debug\Rationals.pdb
 D:\git\codevalue\advanced-net-course\home-assignments\5\Idan Malka\CodeValue\module 3\Rationals\Rationals\bin\Debug\Rationals.exe.config
 D:\git\codevalue\advanced-net-course\home-assignments\5\Idan Malka\CodeValue\module 3\Rationals\Rationals\obj\Debug\Rationals.exe
 D:\git\codevalue\advanced-net-course\home-assignments\5\Idan Malka\CodeValue\module 3\Rationals\Rationals\obj\Debug\Rationals.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 3\Rationals\Rationals\bin\Debug\Rationals.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 3\Rationals\Rationals\obj\Debug\Rationals.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 3\Rationals\Rationals\obj\Debug\Rationals.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 3\Rationals\Rationals\bin\Debug\Rationals.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 3\Rationals\Rationals\bin\Debug\Rationals.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 3\Rationals\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache

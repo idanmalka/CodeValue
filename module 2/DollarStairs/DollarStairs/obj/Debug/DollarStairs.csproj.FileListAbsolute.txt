@@ -4,3 +4,9 @@ C:\Users\Idan\Desktop\DollarStairs\DollarStairs\bin\Debug\DollarStairs.pdb
 C:\Users\Idan\Desktop\DollarStairs\DollarStairs\obj\Debug\DollarStairs.csprojResolveAssemblyReference.cache
 C:\Users\Idan\Desktop\DollarStairs\DollarStairs\obj\Debug\DollarStairs.exe
 C:\Users\Idan\Desktop\DollarStairs\DollarStairs\obj\Debug\DollarStairs.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\DollarStairs\DollarStairs\bin\Debug\DollarStairs.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\DollarStairs\DollarStairs\obj\Debug\DollarStairs.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\DollarStairs\DollarStairs\obj\Debug\DollarStairs.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\DollarStairs\DollarStairs\bin\Debug\DollarStairs.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\DollarStairs\DollarStairs\bin\Debug\DollarStairs.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\DollarStairs\DollarStairs\obj\Debug\DollarStairs.csprojResolveAssemblyReference.cache

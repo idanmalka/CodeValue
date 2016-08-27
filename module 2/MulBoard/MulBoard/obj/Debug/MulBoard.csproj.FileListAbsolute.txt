@@ -4,3 +4,9 @@ C:\Users\Idan\Desktop\MulBoard\MulBoard\bin\Debug\MulBoard.pdb
 C:\Users\Idan\Desktop\MulBoard\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache
 C:\Users\Idan\Desktop\MulBoard\MulBoard\obj\Debug\MulBoard.exe
 C:\Users\Idan\Desktop\MulBoard\MulBoard\obj\Debug\MulBoard.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\MulBoard\MulBoard\bin\Debug\MulBoard.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\MulBoard\MulBoard\obj\Debug\MulBoard.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\MulBoard\MulBoard\obj\Debug\MulBoard.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\MulBoard\MulBoard\bin\Debug\MulBoard.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\MulBoard\MulBoard\bin\Debug\MulBoard.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\MulBoard\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache

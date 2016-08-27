@@ -7,3 +7,9 @@ C:\Users\Idan\Desktop\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
 C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 2\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
