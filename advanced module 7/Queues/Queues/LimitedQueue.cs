@@ -8,9 +8,12 @@ using System.Threading.Tasks;
 
 namespace Queues
 {
+    //No IDisposable to release the semaphore?
     class LimitedQueue<T> 
     {
         private readonly Queue<T> _queue;
+
+        //Why two? You could have done this using only one.
         private readonly SemaphoreSlim _writerSem,_readerSem;
         public LimitedQueue(int size)
         {
@@ -28,6 +31,8 @@ namespace Queues
                 _queue.Enqueue(item);
                 Console.WriteLine($"Number of items in the queue: {_queue.Count}");
             }
+
+            //You should insert it into a finaly clause when working with acquire-release pattern
             _readerSem.Release();
         }
 
