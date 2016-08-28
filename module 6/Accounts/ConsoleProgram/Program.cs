@@ -45,6 +45,7 @@ namespace ConsoleProgram
                         }
                         catch (InsufficientFundsException e)
                         {
+                            //You should have used the message from the exception
                             Console.WriteLine("Unable to Withdraw, amount too great");
                         }
                         break;
