@@ -27,6 +27,7 @@ namespace AccountsLib
 
         public void Deposit(int amount)
         {
+            //You should have added a message to the exception
             if (amount < 0) throw new ArgumentOutOfRangeException();
             sum += amount;
             
@@ -34,6 +35,7 @@ namespace AccountsLib
 
         public int Withdraw(int amount)
         {
+            //You should have added a message to the exception
             if (amount < 0) throw new ArgumentOutOfRangeException();
             if (amount > sum) throw new InsufficientFundsException();
             sum -= amount;
@@ -54,11 +56,15 @@ namespace AccountsLib
             {
                 acc.Deposit(Withdraw(amount));
                 Console.WriteLine("Transfer Complete.");
+
+                //The exception should have been catched in main.
             }catch (ArgumentOutOfRangeException e) {
+                //You should have used the message from the exception
                 Console.WriteLine("Unable to Transfer a negative amount");
             }
             finally
             {
+                //where is the try-finally and the logging with the balance before and after the operation is done?
                 Console.WriteLine($"\nAccounts Balance:\nAccount no.1: {Balance} \nAccount no.2: {acc.Balance}");
             }
         }// Transfer
