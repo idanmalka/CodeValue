@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{2DF93C4C-00C8-4195-AA01-FDA091671A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinesLogicLayer", "BussinesLogicLayer\BussinesLogicLayer.csproj", "{9799FC8E-6ACB-4E1C-AD0D-0714891B2BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UILayer", "UILayer\UILayer.csproj", "{20780DC9-2C3D-429D-B8AD-610FABFBD664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF93C4C-00C8-4195-AA01-FDA091671A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF93C4C-00C8-4195-AA01-FDA091671A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF93C4C-00C8-4195-AA01-FDA091671A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF93C4C-00C8-4195-AA01-FDA091671A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9799FC8E-6ACB-4E1C-AD0D-0714891B2BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9799FC8E-6ACB-4E1C-AD0D-0714891B2BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9799FC8E-6ACB-4E1C-AD0D-0714891B2BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9799FC8E-6ACB-4E1C-AD0D-0714891B2BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20780DC9-2C3D-429D-B8AD-610FABFBD664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20780DC9-2C3D-429D-B8AD-610FABFBD664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20780DC9-2C3D-429D-B8AD-610FABFBD664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20780DC9-2C3D-429D-B8AD-610FABFBD664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
