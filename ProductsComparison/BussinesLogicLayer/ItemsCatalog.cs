@@ -28,6 +28,10 @@ namespace BussinesLogicLayer
         {
             var categoryKey = item.Category;
 
+            /*You have made four dictionary lookup's where two would fit you just fine.
+             Consider refactoring this method.
+             */
+
             if (!_catalog.ContainsKey(categoryKey))
                 _catalog.Add(categoryKey,new List<ItemCatalogData>());
 

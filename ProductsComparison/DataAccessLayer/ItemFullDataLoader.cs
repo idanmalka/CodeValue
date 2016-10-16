@@ -9,6 +9,11 @@ using System.Xml.Linq;
 
 namespace DataAccessLayer
 {
+    /*
+     * Static classes and methods are rarely justifyable
+     * They create tight coupling (hard to replace them since they are publicly known.
+     * They hinder testability since client code of such classes can not be configured to work with a different data source.
+     */
     public static class ItemsFullDataLoader 
     {
 

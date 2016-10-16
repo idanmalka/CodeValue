@@ -31,7 +31,14 @@ namespace UILayer
         public MainWindow()
         {
             InitializeComponent();
+            /*
+             It is good that you thought of MVVM, but in a true MVVM application you would have no code in the *.xaml.cs of a file.
+             This is easily accomplished with an MVVM framework.
+             One of my favorites is Caliburn.Micro, but you can look others up - there are plenty.
 
+             This should get you started with caliburn:
+             http://caliburnmicro.com/
+             */
             _manager = new LogicManager();
             TreeViewModel.SetTreeDesign(CatalogTree,_manager);
         }
@@ -45,6 +52,10 @@ namespace UILayer
                 .ContinueWith(i => UpdateView(cart, numberOfItems));
         }
 
+        /*When going the MVVM way, we do not use events, but instead Commands
+         * 
+         * Consider: https://msdn.microsoft.com/en-us/magazine/dn237302.aspx
+         */
         private void SaveCartButton_Click(object sender, RoutedEventArgs e)
         {
             var selectedItems = TreeViewModel.GetSelectedItems(CatalogTree.Items).ToArray();
@@ -92,6 +103,7 @@ namespace UILayer
 
         }
 
+        //This belongs in a View Model- which is in charge of User Interaction Logic.
         private void UpdateView(Cart cart,int numberOfItems)
         {
             var ramiLeviPrice = cart.GetTotalPriceByChain("RamiLevi").ToString(CultureInfo.CurrentCulture);

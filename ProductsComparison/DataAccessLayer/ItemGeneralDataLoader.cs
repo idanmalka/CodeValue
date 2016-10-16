@@ -11,6 +11,11 @@ namespace DataAccessLayer
     public class ItemGeneralDataLoader 
     {
 
+        /*
+     * Static classes and methods are rarely justifyable
+     * They create tight coupling (hard to replace them since they are publicly known.
+     * They hinder testability since client code of such classes can not be configured to work with a different data source.
+     */
         public static List<ItemGeneralData> GetItemsData()
         {
             var categories = XElement.Load("..\\..\\..\\Products.Xml").Elements();
@@ -21,6 +26,11 @@ namespace DataAccessLayer
                             .ToList();
         }
 
+        /*
+     * Static classes and methods are rarely justifyable
+     * They create tight coupling (hard to replace them since they are publicly known.
+     * They hinder testability since client code of such classes can not be configured to work with a different data source.
+     */
         private static ItemGeneralData TransformToItemGeneralDataInstance(XElement item)
         {
             int itemIdHolder;

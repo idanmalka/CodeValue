@@ -7,6 +7,14 @@ using DataAccessLayer;
 
 namespace BussinesLogicLayer
 {
+    /*
+     Your entity design only enables you to implement the assignment's current features
+     What would happen if you would need to do additional processing with the data inside an XML?
+     Your model is not general enough- since it does not represent the Store, Chain and Product entities.
+
+     Consider: https://en.wikipedia.org/wiki/Domain-driven_design
+
+    */
     public class ItemCatalogData
     {
         public int ItemId { get; set; }
