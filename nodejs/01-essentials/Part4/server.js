@@ -1,16 +1,18 @@
 const http = require('http');
-var cluster = require("cluster");
+const cluster = require("cluster");
+const childProc = require("child_process");
 
 if (cluster.isMaster) {
-    http.createServer((req, res) => {
-        let worker = cluster.fork();
-        worker.on("message", msg => {
-            console.log("master received response: " + msg)
-            res.end("done");
-        });
-        worker.send({ num1: Math.random() * 10, num2: Math.random() * 10 });
-    }).listen(8080, () => console.log(`master started: ${process.pid}`));
+    for (let i = 0; i < 4; i++)
+        cluster.fork();
 } else {
     console.log(`worker started ${process.pid}`);
-    require("./calcsum")
+    http.createServer((req, res) => {
+        let subWorker = childProc.fork("./calcsum");
+        subWorker.on("message", msg => {
+            console.log("worker received response: " + msg)
+            res.end("done");
+        });
+        subWorker.send({ num1: Math.random() * 10, num2: Math.random() * 10 });
+    }).listen(8080, () => console.log(`worker ${process.pid} listening...`));
 }
