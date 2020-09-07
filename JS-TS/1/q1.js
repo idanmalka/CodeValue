@@ -6,6 +6,6 @@ for (let i = 1; i < 101; ++i) {
     if(!(i % 5)) {
         res += "buzz";
     }
-    if (res)
+    if (res !== "")
         console.log(`${res} ${i}`);
 }
