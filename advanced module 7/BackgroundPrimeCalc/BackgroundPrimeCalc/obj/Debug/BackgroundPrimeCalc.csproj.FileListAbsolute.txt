@@ -1,9 +1,0 @@
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\bin\Debug\BackgroundPrimeCalc.exe.config
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\bin\Debug\BackgroundPrimeCalc.exe
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\bin\Debug\BackgroundPrimeCalc.pdb
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.csprojResolveAssemblyReference.cache
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.Form1.resources
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.Properties.Resources.resources
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.csproj.GenerateResource.Cache
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.exe
-c:\users\idan\documents\visual studio 2015\Projects\BackgroundPrimeCalc\BackgroundPrimeCalc\obj\Debug\BackgroundPrimeCalc.pdb

@@ -1,7 +1,0 @@
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\UnitTestProject1\bin\Debug\Calculator.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\UnitTestProject1\bin\Debug\Calculator.pdb
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 2\Calculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

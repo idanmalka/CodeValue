@@ -1,6 +1,0 @@
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\SyncDemo\bin\Debug\SyncDemo.exe.config
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\SyncDemo\bin\Debug\SyncDemo.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\SyncDemo\bin\Debug\SyncDemo.pdb
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\SyncDemo\obj\Debug\SyncDemo.csprojResolveAssemblyReference.cache
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\SyncDemo\obj\Debug\SyncDemo.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\SyncDemo\obj\Debug\SyncDemo.pdb

@@ -1,6 +1,0 @@
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\DummySyncDemon\bin\Release\DummySyncDemon.exe.config
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\DummySyncDemon\bin\Release\DummySyncDemon.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\DummySyncDemon\bin\Release\DummySyncDemon.pdb
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\DummySyncDemon\obj\Release\DummySyncDemon.csprojResolveAssemblyReference.cache
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\DummySyncDemon\obj\Release\DummySyncDemon.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\SyncDemo\DummySyncDemon\obj\Release\DummySyncDemon.pdb

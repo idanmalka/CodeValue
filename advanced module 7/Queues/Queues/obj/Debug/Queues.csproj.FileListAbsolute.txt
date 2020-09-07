@@ -1,6 +1,0 @@
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\Queues\Queues\bin\Debug\Queues.exe.config
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\Queues\Queues\bin\Debug\Queues.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\Queues\Queues\bin\Debug\Queues.pdb
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\Queues\Queues\obj\Debug\Queues.csprojResolveAssemblyReference.cache
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\Queues\Queues\obj\Debug\Queues.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\module 7\Queues\Queues\obj\Debug\Queues.pdb

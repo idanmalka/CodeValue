@@ -1,0 +1,8 @@
+C:\Users\Home\Desktop\NoDB\ProductsComparison\BussinesLogicLayer\bin\Release\Products.xml
+C:\Users\Home\Desktop\NoDB\ProductsComparison\BussinesLogicLayer\bin\Release\BussinesLogicLayer.dll
+C:\Users\Home\Desktop\NoDB\ProductsComparison\BussinesLogicLayer\bin\Release\BussinesLogicLayer.pdb
+C:\Users\Home\Desktop\NoDB\ProductsComparison\BussinesLogicLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Home\Desktop\NoDB\ProductsComparison\BussinesLogicLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Home\Desktop\NoDB\ProductsComparison\BussinesLogicLayer\obj\Release\BussinesLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\NoDB\ProductsComparison\BussinesLogicLayer\obj\Release\BussinesLogicLayer.dll
+C:\Users\Home\Desktop\NoDB\ProductsComparison\BussinesLogicLayer\obj\Release\BussinesLogicLayer.pdb

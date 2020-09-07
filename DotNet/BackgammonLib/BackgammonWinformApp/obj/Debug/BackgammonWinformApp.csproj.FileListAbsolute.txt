@@ -1,0 +1,33 @@
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.BackGammon.resources
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.Properties.Resources.resources
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.csproj.GenerateResource.Cache
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonLib.dll
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Backgammon\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonLib.pdb
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.exe.config
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.exe
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.pdb
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.BackGammon.resources
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.Properties.Resources.resources
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.csproj.GenerateResource.Cache
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.exe
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.pdb
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonLib.dll
+C:\Users\Idan\Desktop\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonWinformApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonLib.dll
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\bin\Debug\BackgammonLib.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.csprojResolveAssemblyReference.cache
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.BackGammon.resources
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.Properties.Resources.resources
+D:\git\codevalue\advanced-net-course\home-assignments\Backgammon\Idan Malka\CodeValue\BackgammonLib\BackgammonWinformApp\obj\Debug\BackgammonWinformApp.csproj.GenerateResource.Cache

@@ -1,8 +1,0 @@
-C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.exe.config
-C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.exe
-C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\ConsoleProgram.pdb
-C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\AccountsLib.dll
-C:\Users\Idan\Desktop\Accounts\ConsoleProgram\bin\Debug\AccountsLib.pdb
-C:\Users\Idan\Desktop\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.csprojResolveAssemblyReference.cache
-C:\Users\Idan\Desktop\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.exe
-C:\Users\Idan\Desktop\Accounts\ConsoleProgram\obj\Debug\ConsoleProgram.pdb

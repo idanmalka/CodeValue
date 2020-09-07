@@ -1,0 +1,6 @@
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 5\advanced module 2.2\GenericApp\GenericApp\bin\Debug\GenericApp.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 5\advanced module 2.2\GenericApp\GenericApp\bin\Debug\GenericApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 5\advanced module 2.2\GenericApp\GenericApp\bin\Debug\GenericApp.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 5\advanced module 2.2\GenericApp\GenericApp\obj\Debug\GenericApp.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 5\advanced module 2.2\GenericApp\GenericApp\obj\Debug\GenericApp.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 5\advanced module 2.2\GenericApp\GenericApp\obj\Debug\GenericApp.pdb

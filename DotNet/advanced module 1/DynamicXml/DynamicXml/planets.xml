@@ -1,0 +1,21 @@
+<Planets>
+  <Planet>
+    <Name>Mercury</Name>
+  </Planet>
+  <Planet>
+    <Name>Venus</Name>
+  </Planet>
+  <Planet>
+    <Name>Earth</Name>
+    <Moons>
+      <Moon>Moon</Moon>
+    </Moons>
+  </Planet>
+  <Planet>
+    <Name>Mars</Name>
+    <Moons>
+      <Moon>Phobos</Moon>
+      <Moon>Deimos</Moon>
+    </Moons>
+  </Planet>
+</Planets>

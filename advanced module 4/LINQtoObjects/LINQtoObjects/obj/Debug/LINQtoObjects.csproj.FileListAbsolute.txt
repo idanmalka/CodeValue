@@ -1,9 +1,0 @@
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe.config
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.pdb
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.csprojResolveAssemblyReference.cache
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.exe
-C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\Lab 6\advanced module 4\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.pdb
-C:\Users\CodeValue\Source\Repos\IdanMalka\CodeValue\advanced module 4\LINQtoObjects\LINQtoObjects\bin\Debug\LINQtoObjects.exe.config
-C:\Users\CodeValue\Source\Repos\IdanMalka\CodeValue\advanced module 4\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.exe
-C:\Users\CodeValue\Source\Repos\IdanMalka\CodeValue\advanced module 4\LINQtoObjects\LINQtoObjects\obj\Debug\LINQtoObjects.pdb

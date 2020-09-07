@@ -1,0 +1,18 @@
+C:\Users\Idan\Desktop\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Idan\Desktop\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Idan\Desktop\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Idan\Desktop\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\Idan\Desktop\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Idan\Desktop\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 4\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 4\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 4\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 4\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 4\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Idan\Dropbox\idan & adir\codevalue\labs\lab2-3\module 4\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 4\Strings\Strings\bin\Debug\Strings.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 4\Strings\Strings\obj\Debug\Strings.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 4\Strings\Strings\obj\Debug\Strings.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 4\Strings\Strings\bin\Debug\Strings.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 4\Strings\Strings\bin\Debug\Strings.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Idan Malka\CodeValue\module 4\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
