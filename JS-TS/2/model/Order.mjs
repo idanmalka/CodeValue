@@ -8,7 +8,7 @@ export class Order {
     }
 
     toString() {
-        const printString = `${this.customer.toString}\n`;
+        let printString = `${this.customer.toString()}\n`;
         this.products.forEach(p => printString += `${p.toString()}\n`);
         return printString;
     }

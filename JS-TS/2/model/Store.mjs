@@ -31,7 +31,7 @@ export class Store {
         for (const order of this.orders) {
             let printStr = `Customer: ${this.customers[order.customer.id].toString()}\nProducts:\n`;
             for (const product of order.products) {
-                printStr += `ID: ${product.id}, Name: ${product.name}\n`;
+                printStr += `${product.toString()}\n`;
             }
             console.log(printStr);
         }
@@ -54,12 +54,12 @@ export class Store {
         }
         for (const customer of stateObj.customers) {
             this.customers.push(new Customer(customer.id, customer.name, customer.address));
-        };
+        }
         for (const order of stateObj.orders) {
             const customer = this.customers.find(c => c.id === order.customer.id);
             const products = this.products.filter(existingProduct => order.products.find(orderedProduct => existingProduct.id === orderedProduct.id));
             this.orders.push(new Order(customer, products));
-        };
+        }
     }
 
     notify() {
