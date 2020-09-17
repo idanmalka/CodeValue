@@ -1,0 +1,83 @@
+{
+    "products": [
+        {
+            "id": "0",
+            "name": "product 0",
+            "itemsInStock": 4
+        },
+        {
+            "id": "1",
+            "name": "product 1",
+            "itemsInStock": 4
+        },
+        {
+            "id": "2",
+            "name": "product 2",
+            "itemsInStock": 5
+        },
+        {
+            "id": "3",
+            "name": "product 3",
+            "itemsInStock": 5
+        },
+        {
+            "id": "4",
+            "name": "product 4",
+            "itemsInStock": 5
+        },
+        {
+            "id": "4",
+            "name": "product 4",
+            "itemsInStock": 0
+        }
+    ],
+    "customers": [
+        {
+            "id": "0",
+            "name": "idan",
+            "address": "add0"
+        },
+        {
+            "id": "1",
+            "name": "suzi",
+            "address": "add1"
+        },
+        {
+            "id": "2",
+            "name": "eyal",
+            "address": "add2"
+        },
+        {
+            "id": "3",
+            "name": "michael",
+            "address": "add3"
+        },
+        {
+            "id": "4",
+            "name": "itay",
+            "address": "add4"
+        }
+    ],
+    "orders": [
+        {
+            "customer":         
+            {
+                "id": "0",
+                "name": "idan",
+                "address": "add0"
+            },
+            "products": [
+                {
+                    "id": "0",
+                    "name": "idan",
+                    "address": "add0"
+                },
+                {
+                    "id": "1",
+                    "name": "suzi",
+                    "address": "add1"
+                }
+            ]
+        }
+    ]
+}
