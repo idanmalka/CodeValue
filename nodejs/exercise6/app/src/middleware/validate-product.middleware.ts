@@ -19,13 +19,13 @@ const validateExistingProductMiddleware = (req: Request, res: Response, next: Ne
     const productId = req.params.productId;
     if (productId.length !== 36) {
         res.sendStatus(400);
-        return;
+        next(new Error('invalid product id'));
     }
 
     const product = store.getProduct(productId);
     if (!product) {
         res.sendStatus(404);
-        return;
+        next(new Error('product doesnt exist'));
     }
 
     next();

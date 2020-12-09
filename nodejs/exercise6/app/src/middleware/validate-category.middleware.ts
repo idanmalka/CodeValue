@@ -15,13 +15,13 @@ const validateExistingCategoryMiddleware = (req: Request, res: Response, next: N
     const categoryId = req.params.categoryId;
     if (categoryId.length !== 36) {
         res.sendStatus(400);
-        return;
+        next(new Error('invalid category id'));
     }
 
     const category = store.getCategory(categoryId);
     if (!category) {
         res.sendStatus(404);
-        return;
+        next(new Error('category does not exist'));
     }
 
     next();
